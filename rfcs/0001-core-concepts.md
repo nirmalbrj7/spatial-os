@@ -269,5 +269,3 @@ Once accepted:
 - It may only be superseded by a future RFC
 
 ---
-
-### End of RFC-0001
